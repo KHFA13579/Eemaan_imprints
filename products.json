@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Islamic Stories Book",
+    "description": "A collection of beautiful and inspiring stories for children to learn about Islamic values.",
+    "price": "150",
+    "image": "images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Arabic Alphabet Puzzle",
+    "description": "A fun and interactive puzzle to help children learn the Arabic alphabet.",
+    "price": "250",
+    "image": "images/product2.jpg"
+  }
+]
